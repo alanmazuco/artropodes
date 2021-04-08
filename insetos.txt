@@ -1,0 +1,6 @@
+formiga
+vespa
+barata
+besouro
+cupim
+traça
