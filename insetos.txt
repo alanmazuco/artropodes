@@ -1,10 +1,10 @@
 abelha
 barata
-barata dagua
+barata-dagua
 barata-rinonceronte
 barbeiro
 besouro
-bicho da seda
+bicho-da-seda
 bicho-pau
 borboleta
 cigarra
