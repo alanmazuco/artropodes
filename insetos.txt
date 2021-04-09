@@ -4,4 +4,7 @@ barata
 besouro
 cupim
 traça
-aranha
+mosquito
+louva-a-deus
+abelha
+libélula
