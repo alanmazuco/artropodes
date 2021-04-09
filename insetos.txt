@@ -4,3 +4,4 @@ barata
 besouro
 cupim
 traça
+aranha
