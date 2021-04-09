@@ -8,3 +8,4 @@ mosquito
 louva-a-deus
 abelha
 libélula
+joaninha
