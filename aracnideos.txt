@@ -1,5 +1,10 @@
-aranha
-escorpiao
+aranha armadeira
+aranha viúva negra
+aranha lobo
+aranha caranguejera
+escorpiao marron
+escorpião imperador
 carrapato
 ácaro
 opilião
+tarântula

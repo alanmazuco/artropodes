@@ -1,5 +1,7 @@
 abelha
 barata
+barata dagua
+barata-rinonceronte
 barbeiro
 besouro
 bicho da seda
@@ -14,6 +16,7 @@ gafanhoto
 gorgulho
 grilo
 joaninha
+lacerdinha
 libélula
 louva-a-deus
 mariposa
@@ -29,6 +32,7 @@ pulga
 pulgão
 saúva
 taturana
+tesourinha
 traça
 vagalume
 vespa
